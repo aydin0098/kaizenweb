@@ -5,3 +5,5 @@ function slider() {
     alert("slider");
 
 }
+
+slider();
