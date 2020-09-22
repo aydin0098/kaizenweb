@@ -1,2 +1,4 @@
-alert('ok');
+
+alert('welcome');
+
 
