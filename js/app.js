@@ -7,3 +7,7 @@ function slider2() {
 }
 
 slider2();
+
+
+$name = "aydin";
+alert($name);
