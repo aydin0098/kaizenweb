@@ -1,9 +1,9 @@
 alert('ok');
 
-function slider() {
+function slider2() {
 
     alert("slider");
 
 }
 
-slider();
+slider2();
